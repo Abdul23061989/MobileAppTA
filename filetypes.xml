@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Task1" type="CLASS" />
+      <mapping pattern="FTest" type="CLASS" />
+      <mapping pattern="Test001" type="CLASS" />
+      <mapping pattern="TestCase_001" type="JAVA" />
+      <mapping pattern="TC001" type="JAVA" />
+      <mapping pattern="Test_001" type="Native" />
+    </extensionMap>
+  </component>
+</application>
